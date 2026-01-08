@@ -1,0 +1,1 @@
+# nyc-taxi-analytical-data-model
