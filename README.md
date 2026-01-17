@@ -25,6 +25,7 @@ All transformations and dataset splits are consistent with this level of detail.
 ---
 
 ## Data Model
+![Data Model](Rides_DataModel.png)
 The logical data model follows a **star-schema-style structure**:
 
 - One central fact dataset representing taxi trips
